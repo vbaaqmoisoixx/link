@@ -70,13 +70,14 @@ a {
   font-size: 1em;
   transition: color 0.3s;
   padding: 9px;
-  background-color: #f38c07;
+  background-color: #191919;
   border-radius: 6px;
 }
 a:hover {
-  color: #f38c07;
+  color: #191919;
   background-color: #fff;
   border-radius: 6px;
+  border: 1px solid #191919;
   letter-spacing: 1px;
   -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
   -moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
@@ -92,8 +93,8 @@ a:hover {
 
 hr {
   margin-top: 25px;
-  color: #ff8c00;
-  background-color: #f38c07;
+  color: #191919;
+  background-color: #191919;
 }
 
 /* Estilos para telas maiores (desktops) */
